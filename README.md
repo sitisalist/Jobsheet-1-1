@@ -45,7 +45,7 @@ TX-RX Tinggi 1 Meter Jarak 1 Meter
 
 Sender
 
-Gambar
+![image](https://user-images.githubusercontent.com/121160420/210136568-93cad77a-8b40-4c9a-8316-cb7efd20c99a.png)
 
 Receiver
 
@@ -55,7 +55,7 @@ TX-RX Ground 2 Meter
 
 Sender
 
-gambar
+![image](https://user-images.githubusercontent.com/121160420/210136958-fe80fb2c-3694-45cd-96b4-e3f96b6e07cf.png)
 
 Receiver
 
@@ -65,7 +65,7 @@ TX-RX Tinggi 30cm Jarak 2 Meter
 
 Sender
 
-Gambar
+![image](https://user-images.githubusercontent.com/121160420/210137183-d78e48b5-a4c6-42d5-a6c4-ae7d4b24331d.png)
 
 Receiver
 
@@ -75,7 +75,7 @@ TX-RX Tinggi 1m Jarak 2 Meter
 
 Sender
 
-gambar
+![image](https://user-images.githubusercontent.com/121160420/210137196-88b58cd4-5b83-4554-a4b9-debac5c8bb5f.png)
 
 Receiver
 
@@ -85,17 +85,17 @@ TX-RX Ground 3 Meter
 
 Sender
 
-gambar
+![image](https://user-images.githubusercontent.com/121160420/210136964-f82be8b4-f33f-4e2f-9f52-6a6e7edcd0c0.png)
 
 Receiver
 
-C. One-Way, One-to-Many Communication
+![WhatsApp Image 2022-11-21 at 17 02 57](https://user-images.githubusercontent.com/121160420/210137361-a776a288-e28f-4cb5-b167-66c9e470c608.jpg)
 
 TX-RX Tinggi 30cm Jarak 3 Meter
 
 Sender
 
-gambar
+![image](https://user-images.githubusercontent.com/121160420/210136647-1c1ad4ea-2f4b-4974-a2ef-50f6f24b2518.png)
 
 Receiver
 
@@ -105,7 +105,7 @@ TX-RX Tinggi 1 Meter Jarak 3 Meter
 
 Sender
 
-Gambar
+![image](https://user-images.githubusercontent.com/121160420/210137198-301ace57-6a61-4526-96b7-a102c787b19b.png)
 
 Receiver
 
@@ -115,7 +115,7 @@ TX-RX Ground 4,2 Meter
 
 Sender
 
-Gambar
+![image](https://user-images.githubusercontent.com/121160420/210136783-d3bb002b-5a6d-404f-bb04-8606a701780d.png)
 
 Receiver
 
@@ -125,7 +125,7 @@ TX-RX Tinggi 30cm Jarak 4,2 Meter
 
 Sender
 
-Gambar
+![image](https://user-images.githubusercontent.com/121160420/210137206-19e37602-2ba8-431c-87aa-fb947e895f8a.png)
 
 Receiver
 
@@ -135,7 +135,7 @@ TX-RX Tinggi 1 Meter Jarak 4,2 Meter
 
 Sender
 
-gambar
+![image](https://user-images.githubusercontent.com/121160420/210136982-53468f3b-8a22-4eb7-9d0f-5cf44d441444.png)
 
 Receiver
 
@@ -145,7 +145,7 @@ TX-RX Ground 5,4 Meter
 
 Sender
 
-gambar
+![image](https://user-images.githubusercontent.com/121160420/210136595-2ed80e8e-4143-41b5-a893-c2b64f7a85a6.png)
 
 Receiver
 
@@ -155,7 +155,7 @@ TX-RX Tinggi 30cm Jarak 5,4 Meter
 
 Sender
 
-gambar
+![image](https://user-images.githubusercontent.com/121160420/210137293-3dd2b33d-177f-40cf-a6e6-a4563dbd38a9.png)
 
 Receiver
 
@@ -165,12 +165,13 @@ TX-RX Tinggi 1 Meter Jarak 5,4 Meter
 
 Sender
 
-gambar
+![image](https://user-images.githubusercontent.com/121160420/210136990-a35103a1-8690-4c95-85de-c59284a5f99b.png)
 
 Receiver
 
 ![1m jarak 5,4m](https://user-images.githubusercontent.com/121160420/210083277-28997f47-6ac5-46bc-bd06-db8149bc21f6.jpg)
 
+C. One-Way, One-to-Many Communication
 
 a) Mengirim Pesan yang Sama Ke Beberapa Board ESP32
 
@@ -189,7 +190,9 @@ Receiver 2
 Gambar
 
 
-D. One-Way, Many-to-One Communication MAC Sender 1 (Satria & Adika) : 24:6F:28:02:C3:1C MAC Sender 2 (Fariz & Josandy) : 24:6F:28:95:D5:80 MAC Receiver (Ayudya & Salist) : 24:6F:28:2B:6D:D8
+D. One-Way, Many-to-One Communication 
+
+MAC Sender 1 (Satria & Adika) : 24:6F:28:02:C3:1C MAC Sender 2 (Fariz & Josandy) : 24:6F:28:95:D5:80 MAC Receiver (Ayudya & Salist) : 24:6F:28:2B:6D:D8
 
 Sender 1 (Satria & Adika)
 
