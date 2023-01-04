@@ -179,30 +179,32 @@ MAC Sender (Ayudya & Salist) : 24:6F:28:2B:6D:D8 MAC Reciver 1 (Satria & Adika) 
 
 Sender (Ayudya & Salist)
 
-Gambar
+![WhatsApp Image 2022-12-31 at 19 30 26](https://user-images.githubusercontent.com/121160420/210563502-ad30f771-bfec-4652-ac4c-b43373065f5a.jpg)
 
-Receiver 1
+Receiver 1 (Satria & Adika)
 
-gambar
+![WhatsApp Image 2023-01-03 at 12 58 34](https://user-images.githubusercontent.com/121160420/210564399-24b8904e-e58c-409d-85ca-8d79b55af34c.jpg)
 
-Receiver 2
 
-Gambar
+Receiver 2 (Fariz & Josandy)
 
+![WhatsApp Image 2023-01-03 at 13 38 31](https://user-images.githubusercontent.com/121160420/210564120-832ae098-c8dd-47b1-b8c6-9fad66576570.jpg)
 
 D. One-Way, Many-to-One Communication 
 
 MAC Sender 1 (Satria & Adika) : 24:6F:28:02:C3:1C MAC Sender 2 (Fariz & Josandy) : 24:6F:28:95:D5:80 MAC Receiver (Ayudya & Salist) : 24:6F:28:2B:6D:D8
 
-Sender 1 (Satria & Adika)
+Sender  (Fariz & Josandy)
 
-gambar
+![WhatsApp Image 2022-12-31 at 20 02 02](https://user-images.githubusercontent.com/121160420/210564178-aa970a32-1278-48b8-9893-0d464915abb0.jpg)
 
-Sender 2 (Fariz & Josandy)
+MAC Receiver (Ayudya & Salist)
 
-gambar
+![WhatsApp Image 2022-12-31 at 19 30 26](https://user-images.githubusercontent.com/121160420/210563775-592d71d9-b8b5-4781-80e6-efc7125fb072.jpg)
 
 E. Two-Way Communication Pengecekan Sensor menggunakan DHT22
+
+Install library sensor DHT 11 melalui Sketch > Include Library > Manage Libraries. Ketikkan DHT pada kolom pencarian, pilih library yang akan diinstall seperti pada Gambar berikut ini. Kemudian install juga Adafruit Unified Sensor menggunakan cara yang sama
 
 <img width="283" alt="image" src="https://user-images.githubusercontent.com/121160420/210084267-abb904c8-cf98-41ba-8718-08baf64f45fc.png">
 
