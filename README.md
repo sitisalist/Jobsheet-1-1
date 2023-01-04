@@ -1,5 +1,11 @@
 # Jobsheet-1-1
 
+ALAT DAN BAHAN
+1) ESP32
+2) Breadboard
+3) Kabel jumper
+4) Resistor 10K Ohm
+
 A. Memperoleh MAC Address ESP32 Receiver
 
 Catat Mac Address ESP32.
